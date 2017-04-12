@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Intacct Object</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Intacct Objects</value>
+    </caseValues>
+    <fields>
+        <label><!-- Intacct Picklist Field --></label>
+        <name>Intacct_Picklist_Field__c</name>
+        <picklistValues>
+            <masterLabel>Value 01</masterLabel>
+            <translation><!-- Value 01 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value 02</masterLabel>
+            <translation><!-- Value 02 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value 03</masterLabel>
+            <translation><!-- Value 03 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value 04</masterLabel>
+            <translation><!-- Value 04 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value 05</masterLabel>
+            <translation><!-- Value 05 --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
