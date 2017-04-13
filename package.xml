@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>ARApexACclass2</members>
-        <members>ARApexClass1</members>
-        <members>ARApexclass117</members>
-        <members>ARApexclass13</members>
+        <members>paddiclass</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>padditestpage</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -68,6 +71,14 @@
         <members>Contact.Level__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Int1test__c.Int1picklist__c</members>
+        <members>Intacct_Object__c.Intacct_Picklist_Field__c</members>
+        <members>IntuitCustomObject__c.Field1__c</members>
+        <members>IntuitCustomObject__c.Field3__c</members>
+        <members>IntuitCustomObject__c.Field4__c</members>
+        <members>IntuitCustomObject__c.field2__c</members>
+        <members>IntuitCustomsettings__c.Domain__c</members>
+        <members>IntuitCustomsettings__c.URL__c</members>
+        <members>Intuit__c.Intuit_Picklist__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
         <members>Lead.Primary__c</members>
@@ -85,6 +96,10 @@
         <members>Test__c.FieldTest__c</members>
         <members>User.AutorabitExtId__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>IntuitCustomLabel</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>CustomLabels</members>
@@ -116,6 +131,10 @@
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
         <members>Int1test__c</members>
+        <members>Intacct_Object__c</members>
+        <members>IntuitCustomObject__c</members>
+        <members>IntuitCustomsettings__c</members>
+        <members>Intuit__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -190,6 +209,9 @@
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Int1test__c-Int1test Layout</members>
+        <members>Intacct_Object__c-Intacct Object Layout</members>
+        <members>IntuitCustomObject__c-IntuitCustomObject Layout</members>
+        <members>Intuit__c-Intuit Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -283,6 +305,11 @@
         <members>Contact</members>
         <members>Lead</members>
         <name>MatchingRules</name>
+    </types>
+    <types>
+        <members>IntuitPermissonSet</members>
+        <members>Sales_Objects_Permissions</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>AR-Profile1</members>
@@ -386,6 +413,35 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>ChatterAnswers</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>AccountContactMultiRoles</members>
         <members>AccountContactRole</members>
         <members>AccountOwnership</members>
@@ -446,6 +502,10 @@
         <name>StandardValueSet</name>
     </types>
     <types>
+        <members>IntuitLogo</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
@@ -453,33 +513,7 @@
         <name>WebLink</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>ChatterAnswers</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
+        <members>AR_CustomObject1__c.AR-WorkFlow1</members>
+        <name>WorkflowRule</name>
     </types>
-    <version>39.0</version>
 </Package>
