@@ -91,6 +91,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Simon_CI_Test__c.CI_Demo_Checkbox__c</members>
         <members>TestObj__c.Agent_Email__c</members>
         <members>TestObj__c.Agent__c</members>
         <members>Test__c.FieldTest__c</members>

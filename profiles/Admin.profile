@@ -1306,6 +1306,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Simon_CI_Test__c.CI_Demo_Checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1473,6 +1478,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Intuit__c-Intuit Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Simon_CI_Test__c-Simon CI Test Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
