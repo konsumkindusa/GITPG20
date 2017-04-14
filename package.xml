@@ -112,6 +112,7 @@
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
+        <members>Actual_CI_Test__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
         <members>Campaign</members>
@@ -191,6 +192,7 @@
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
+        <members>Actual_CI_Test__c-Actual CI Test Layout</members>
         <members>Asset-Asset Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
