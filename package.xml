@@ -150,6 +150,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>Simon_CI_Test__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
@@ -227,6 +228,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>Simon_CI_Test__c-Simon CI Test Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>TestObj__c-TestObj Layout</members>
