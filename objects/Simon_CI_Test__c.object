@@ -59,6 +59,45 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    <fields>
+        <fullName>CI_Demo_Picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>CI Demo Picklist</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Value01</fullName>
+                    <default>false</default>
+                    <label>Value01</label>
+                </value>
+                <value>
+                    <fullName>Value02</fullName>
+                    <default>false</default>
+                    <label>Value02</label>
+                </value>
+                <value>
+                    <fullName>Value03</fullName>
+                    <default>false</default>
+                    <label>Value03</label>
+                </value>
+                <value>
+                    <fullName>Value04</fullName>
+                    <default>false</default>
+                    <label>Value04</label>
+                </value>
+                <value>
+                    <fullName>Value05</fullName>
+                    <default>false</default>
+                    <label>Value05</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>Simon CI Test</label>
     <nameField>
         <label>Simon CI Test Name</label>
