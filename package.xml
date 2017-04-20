@@ -75,6 +75,7 @@
         <members>Case.SLAViolation__c</members>
         <members>Configure_Document_Share__c.Active__c</members>
         <members>Contact.AutorabitExtId__c</members>
+        <members>Contact.Intuit_test_01__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Goal.OrigGoalId__c</members>
