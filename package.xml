@@ -60,6 +60,7 @@
         <members>Account.Intuit_test_03__c</members>
         <members>Account.Intuit_test_04__c</members>
         <members>Account.Intuit_test_05__c</members>
+        <members>Account.Intuit_test_06__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
@@ -370,6 +371,7 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>Test Admin</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
