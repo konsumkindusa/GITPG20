@@ -66,6 +66,7 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Account.intuit_test_07__c</members>
         <members>Account.intuit_test_08__c</members>
         <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
