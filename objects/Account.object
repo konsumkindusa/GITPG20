@@ -383,6 +383,16 @@
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+    <fields>
+        <fullName>intuit_test_08__c</fullName>
+        <externalId>false</externalId>
+        <label>intuit_test_08</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>MyAccounts</fullName>
         <filterScope>Mine</filterScope>
