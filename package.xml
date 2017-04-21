@@ -57,6 +57,7 @@
         <members>Account.Active__c</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.Intuit_test_01__c</members>
         <members>Account.Intuit_test_03__c</members>
         <members>Account.Intuit_test_04__c</members>
         <members>Account.Intuit_test_05__c</members>
