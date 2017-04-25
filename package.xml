@@ -71,6 +71,7 @@
         <members>Account.intuit_test_07__c</members>
         <members>Account.intuit_test_08__c</members>
         <members>Account.intuit_test_09__c</members>
+        <members>Account.intuit_test_10__c</members>
         <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -366,6 +367,7 @@
         <members>Identity User</members>
         <members>Intuit Sys Admin</members>
         <members>MarketingProfile</members>
+        <members>PIYER Standard Uset</members>
         <members>PIYER Sys Admin</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
